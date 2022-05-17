@@ -1,3 +1,3 @@
--IC:\Users\Jakov Filip Prgin\Documents\FirstWorkspace\Pointers
+-IC:\Users\Jakov Filip Prgin\Documents\FirstWorkspace\CppTutorial\Pointers
 -target
 

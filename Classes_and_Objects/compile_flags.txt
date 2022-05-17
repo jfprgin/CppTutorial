@@ -1,3 +1,3 @@
--IC:\Users\Jakov Filip Prgin\Documents\FirstWorkspace\Classes_and_Objects
+-IC:\Users\Jakov Filip Prgin\Documents\FirstWorkspace\CppTutorial\Classes_and_Objects
 -target
 

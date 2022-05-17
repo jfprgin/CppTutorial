@@ -1,4 +1,4 @@
--IC:\Users\Jakov Filip Prgin\Documents\FirstWorkspace\Test
+-IC:\Users\Jakov Filip Prgin\Documents\FirstWorkspace\CppTutorial\Test
 -std=c++17
 -target
 
